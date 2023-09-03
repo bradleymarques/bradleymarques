@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello
 
-<!--
-**bradleymarques/bradleymarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on:** a Machine Learning benchmarking tool named [Highwind](https://highwind.ai/) with [Melio.ai](https://melio.ai/)!
+- 🌱 **I’m currently learning:** FastAPI, SQLModel, Django.
+- 👯 **I’m looking to collaborate on:** cool shit.
+- 🤔 **I’m looking for help with:** SQLModel.
+- 💬 **Ask me about:** Python, Ruby on Rails, and web dev.
+- 📫 **How to reach me:** [bradleyrcmarques@gmail.com](mailto:bradleyrcmarques@gmail.com)
+- 🎨 **Current favourite colour schemes:** Gruvbox Light (Soft) and Gruvbox Dark (Soft)
+- 🔤 **Current favourite font:** Fira Code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleymarques&show_icons=true&theme=gruvbox_light&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
