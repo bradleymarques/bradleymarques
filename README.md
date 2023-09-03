@@ -1,4 +1,4 @@
-# Hello
+### Hi there 👋
 
 - 🔭 **I’m currently working on:** a Machine Learning benchmarking tool named [Highwind](https://highwind.ai/) with [Melio.ai](https://melio.ai/)!
 - 🌱 **I’m currently learning:** FastAPI, SQLModel, Django.
@@ -9,4 +9,6 @@
 - 🎨 **Current favourite colour schemes:** Gruvbox Light (Soft) and Gruvbox Dark (Soft)
 - 🔤 **Current favourite font:** Fira Code
 
-[![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleymarques&show_icons=true&theme=gruvbox_light&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleymarques&show_icons=true&theme=default&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymarques&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
